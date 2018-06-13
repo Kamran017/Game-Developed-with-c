@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1526073329 source:c:\users\kamran\desktop\semester project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1528039404 source:c:\users\kamran\desktop\semester project bbg 2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+
+1528269402 source:c:\users\kamran\desktop\17011904\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+
